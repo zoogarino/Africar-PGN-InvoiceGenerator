@@ -3,7 +3,7 @@
 ## How to Use This Invoice
 
 ### Getting Started
-1. Open `invoicetemplate.html` in your web browser
+1. Open `index.html` in your web browser
 2. The invoice will load with all editable fields ready to use
 
 ### Filling Out the Invoice
@@ -47,4 +47,5 @@
 - Click directly on any field you want to edit
 - Save the PDF before sending to clients
 - The bank details section will always stay on one page
+
 
