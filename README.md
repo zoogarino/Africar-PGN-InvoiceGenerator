@@ -34,7 +34,7 @@
 
 ### Important Notes
 - Bank account details are pre-filled and cannot be edited
-- The Supplier Information is pre-filled for Gecko Car Rental
+- The Supplier Information is pre-filled for Africar Car Hire
 - You can add additional terms or conditions at the bottom of the invoice
 
 ### Creating PDF
@@ -47,3 +47,4 @@
 - Click directly on any field you want to edit
 - Save the PDF before sending to clients
 - The bank details section will always stay on one page
+
